@@ -1,0 +1,22 @@
+{
+  "name": "request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hx1216/Request.git"
+  },
+  "keywords": [
+    "request"
+  ],
+  "author": "xiao.hu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hx1216/Request/issues"
+  },
+  "homepage": "https://github.com/hx1216/Request#readme"
+}
